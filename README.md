@@ -3,7 +3,7 @@
 Menari is a program and ongoing project to train your mental arithmentic skills. Another part is to have a private project to getting used to github actions and CI implementation of software. 
 
 ## Status
-![main](.github/workflows/menari_default.yml/badge.svg)
+[![Menari](https://github.com/FelixLueth/menari-cli/actions/workflows/menari_default.yml/badge.svg)](https://github.com/FelixLueth/menari-cli/actions/workflows/menari_default.yml)
 
 ## Setup
 
