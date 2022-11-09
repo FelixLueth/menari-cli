@@ -11,6 +11,7 @@ Menari is a program and ongoing project to train your mental arithmentic skills.
 
 ```bash
 git clone git@github.com:FelixLueth/menari-cli.git
+cd menari-cli
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
